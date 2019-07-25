@@ -1,2 +1,2 @@
-# OkeyDeneme
-Okey Uygulaması
+# Okey
+ Java Uygulaması
